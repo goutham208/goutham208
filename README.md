@@ -25,7 +25,7 @@ using Python and modern LLM frameworks.
 ## 🛠️ Technical Skills
 
 ### Programming
-Python | 
+Python 
 
 ### Generative AI
 LLMs | RAG | Prompt Engineering | Embeddings | Vector Search | Agentic AI | AI Agents
