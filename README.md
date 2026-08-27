@@ -31,10 +31,10 @@ Python
 LLMs | RAG | Prompt Engineering | Embeddings | Vector Search | Agentic AI | AI Agents
 
 ### Frameworks
-LangChain | LangGraph | FastAPI | Pydantic
+LangChain | LangGraph | FastAPI
 
 ### LLM Platforms
-OpenAI | Google Gemini | Hugging Face | Ollama
+OpenAI | Google Gemini 
 
 ### Vector Databases
 ChromaDB | FAISS
