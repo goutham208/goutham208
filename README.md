@@ -40,7 +40,7 @@ OpenAI | Google Gemini | Hugging Face | Ollama
 ChromaDB | FAISS
 
 ### Tools & Deployment
-Git | GitHub | Docker | REST APIs
+Git | GitHub | REST APIs
 
 ---
 
